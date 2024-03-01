@@ -16,14 +16,14 @@ It creates a resume generator using the [pdfkit](https://pdfkit.org/) library wh
 . After this, store it in your project directory.
 
 
-#Command Line Argument format:
+# Command Line Argument format:
 
 .Syntax for running our cli application
 
 `node <output_file_name> <remote_url or path to input_file> <output_directory>`
 
 
- #Help
+ # Help
  
  `node --help`
  
