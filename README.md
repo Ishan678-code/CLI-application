@@ -1,5 +1,5 @@
 # Resume-Creator!
-It creates a resume generator using the [pdfkit] library which is one of the popular libraries in javascript to create pdf.
+It creates a resume generator using the [pdfkit](https://pdfkit.org/) library which is one of the popular libraries in javascript to create pdf.
 
 # Usage
 .Download [pdfkit](this).
