@@ -5,5 +5,6 @@ It creates a resume generator using the [pdfkit](https://pdfkit.org/) library wh
 .Download [pdfkit](this)
 .cd into the directory where your projects are availabe
 .Install npm  by running the  command below:
+
 ` sudo apt install npm `
 
