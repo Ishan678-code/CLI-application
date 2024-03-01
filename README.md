@@ -20,10 +20,8 @@ It creates a resume generator using the [pdfkit](https://pdfkit.org/) library wh
 
 .Syntax for running our cli application
 
-`node <output_file_name> <remote_url or path to input_file> <output_directory>`
+`node <application_file_name> <remote_url or path to input_file> <output_directory>`
 
 
- # Help
- 
- `node --help`
+
  
