@@ -3,22 +3,22 @@ It creates a resume generator using the [pdfkit](https://pdfkit.org/) library wh
 
 # Usage
 
-.Install npm  by running the  command below:
+- Install npm  by running the  command below:
 
 ` sudo apt install npm `
 
-.Then install the pdfkit by running the command below:
+- Then install the pdfkit by running the command below:
 
 `npm install pdfkit`
 
-. The profile  should be in [this](https://github.com/Ishan678-code/Resume-creator/blob/main/data.json) format.
+- The profile  should be in [this](https://github.com/Ishan678-code/Resume-creator/blob/main/data.json) format.
 
-. After this, store it in your project directory.
+- After this, store it in your project directory.
 
 
 # Command Line Argument format:
 
-.Syntax for running our cli application
+- Syntax for running our cli application
 
 `node <application_file_name> <remote_url or path to input_file> <output_directory>`
 
